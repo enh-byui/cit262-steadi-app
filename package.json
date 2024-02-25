@@ -32,6 +32,7 @@
     "@babel/core": "^7.20.0"
   },
   "scripts": {
+    "hello": "node helloworld.js",
     "test": "mocha",
     "start": "expo start --dev-client",
     "android": "expo run:android",
